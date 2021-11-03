@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+		<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />	
+	<title>The humanist republic of Bimbolands.</title>
+	<meta name="description" content="Welcome to the official website of the Humanist republic of Bimbolands." />
+	<meta name="keywords" content="bimbolands, humanism, bimbo" />
+	<meta name="author" content="Bimbolands" />
+	<link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.2" />
+	<!--[if lt IE 9]><script src="/js/ie.js?v=0.0.2"></script><![endif]-->
+	<script src="/js/start.js?v=0.0.2"></script>
+	
+</head>
+
+	
+
+<body class="simple">
+
+	<div class="b-container">
+
+		<div class="b-header">
+			<div class="row">
+				<div class="small-12 large-4 small-centered columns">
+					<div class="text-center b-logo">
+						<a href="/" title="Bimbolands"><img src="/img/logo.png" alt="Bimbolands"></a><!-- !NEED: A HREF TO INITIAL PAGE / IMG SRC / GLOBAL VARIABLE FOR TITLE-DESCRIPTION -->
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+	<div class="b-index">
+	
+			
+		<div class="b-headline">
+			<div class="row">
+				<div class="small-12 columns">
+					<ul data-orbit>
+						<li data-orbit-slide="headline-1">
+							<h1>Pass the test <br class="show-for-medium-up" />and become a <br class="show-for-large-up" />Bimbolands citizen</h1>
+						</li>
+						<li data-orbit-slide="headline-2">
+							<h1>Plot your way to power <br class="show-for-medium-up" />and the office of <br class="show-for-medium-up" />Prime Bimbo</h1>
+						</li>
+						<li data-orbit-slide="headline-3">
+							<h1>Spend the treasury funds <br class="show-for-medium-up" />wisely and make the world <br class="show-for-medium-up" />a better place</h1>
+						</li>
+						<li data-orbit-slide="headline-4">
+							<h1><br />Join now!<br /></h1>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="b-index-actions">
+			<div class="row clearfix">
+				<div class="columns small-6 large-4 small-centered">
+					<a class="button expand" href="https://www.facebook.com/dialog/oauth?client_id=308856152633282&redirect_uri=http://www.bimbolands.com/site/fblogin&scope=email">Connect via Facebook</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="columns small-8 large-6 small-centered">
+					<div class="row">
+						<div class="columns small-4">
+							<a data-reveal-id="faq-modal" class="button small expand b-orange b-compact"><i class="fi-help2"></i><span>F.A.Q.</span></a>
+						</div>
+						<div class="columns small-4">
+							<a href="https://www.twitter.com/bimbolands" target="_blank" class="button small expand b-orange b-compact"><i class="fi-twitter"></i><span>Twitter</span></a>
+						</div>
+						<div class="columns small-4">
+							<a href="http://www.facebook.com/bimbolands" target="_blank" class="button small expand b-orange b-compact"><i class="fi-facebook"></i><span>Facebook</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="faq-modal" class="reveal-modal medium" data-reveal>
+			<h2>Frequently Asked Questions</h2><br />
+			<p><b><i class="fi-arrow-right"></i> What is bimbolands.com?</b><br />
+			The humanist republic of Bimbolands is the worlds first humanist democracy.</p>
+			<p><b><i class="fi-arrow-right"></i> What is the national flag of Bimbolands?</b><br />
+			<img src="/img/flag.png" alt="Bimbolands Flag" height="100px" width="150px"></p>
+			<p><b><i class="fi-arrow-right"></i> When was the humanist republic of Bimbolands founded</b><br />
+			2015</p>
+			<p><b><i class="fi-arrow-right"></i> What is the capital city of the humanist republic of Bimbolands?</b><br />
+			Bimbo City</p>
+			<p><b><i class="fi-arrow-right"></i> How many states make up the humanist republic of bimbolands?</b><br />
+			There are 6 states that make up the humanist republic of bimbolands. They are - Atheistica, Freethinkerland, Reasonopia, Agnostia, Spiritville, and Antitheisma. Bimbo City is the neutral administrative capital and is its own city zone.</p>
+			<p><b><i class="fi-arrow-right"></i> What is a bimbo citizen?</b><br />
+			A ‘bimbo’ or ‘bimbo citizen’ is a member of the humanist republic of Bimbolands community.</p>
+			<p><b><i class="fi-arrow-right"></i> How can I become a bimbo citizen?</b><br />
+			In order to become a citizen of bimbolands you must first pass the Bimbolands citizens test. It is free to become a bimbo citizen.</p>
+			<p><b><i class="fi-arrow-right"></i> What is a bimbo senator?</b><br />
+			A bimbo senator is a senior member of the humanist republic of bimbolands community. Only senators are eligible to put themselves forward for election to become Prime Bimbo.</p>
+			<p><b><i class="fi-arrow-right"></i> Who is the Prime Bimbo?</b><br />
+			The Prime Bimbo is the democratically elected head of the humanist republic of bimbolands.</p>
+			<p><b><i class="fi-arrow-right"></i> Where does the Prime Bimbo live?</b><br />
+			The Prime Bimbo lives in the Pink House for the 4 month term they are in office.</p>
+			<p><b><i class="fi-arrow-right"></i> I want to become Prime Bimbo. How do I do that?</b><br />
+			Any bimbo citizen can become Prime Bimbo using the democratic process. All bimbo citizens can vote in general elections but in order to put themselves forward to become Prime Bimbo they must first become a bimbo senator. All Bimbo senators are eligible to put themselves up for nomination to become the Prime Bimbo of the humanist republic of Bimbolands.</p>
+			<p><b><i class="fi-arrow-right"></i> Can I become Prime Bimbo more than once?</b><br />
+			Yes - a bimbo can hold the position of Prime Bimbo for 2 term max.</p>
+			<p><b><i class="fi-arrow-right"></i> How often do elections take place?</b><br />
+			The Humanist republic of bimblands holds elections every 4 months.</p>
+			<p><b><i class="fi-arrow-right"></i> Where do important discussions take place?</b><br />
+			The Senate.</p>
+			<p><b><i class="fi-arrow-right"></i> What is the treasury?</b><br />
+			The treasury is the bank account of the humanist republic of Bimbolands. This figure reflects the amount of money available to the Prime Bimbo for them to invest in humanitarian causes worldwide.</p>
+			<p><b><i class="fi-arrow-right"></i> How is the treasury calculated?</b><br />
+			The treasury is funded by bimbo citizens.<br />
+			50% of all money paid by bimbo citizens is received into the bimbo treasury. The other 50% goes to Blighty Ltd, creators of bimbolands.com, to cover all overheads, upkeep and investment</p>
+			<p><b><i class="fi-arrow-right"></i> What's the national colour of Bimbolands?</b><br />
+			Pink</p>
+			<p><b><i class="fi-arrow-right"></i> How old must I be in order to become a bimbolands citizen?</b><br />
+			Anyone over the age of 13 are welcome to become a bimbo citizen.</p>
+			<p><b><i class="fi-arrow-right"></i> When are the national holidays of Bimbolands?</b><br />
+			Jan 1st - New years day<br />
+			Feb 12th - Darwin day<br />
+			Feb 14th - Lovers day<br />
+			March 8th - Womens day<br />
+			March 21st - Spring solstice<br />
+			April 13th - The Hitchslap Day (Christopher Hitchens birthday)<br />
+			May 3rd - National day of reason<br />
+			June 21st - World Humanist Day<br />
+			Aug 2nd - The humanist republic of Bimbolands national day<br />
+			Sep 21st - Peace one day<br />
+			Dec 25th - Newtons birthday</p>
+			<p><b><i class="fi-arrow-right"></i> Why must I have a facebook account to become a bimbo citizen?</b><br />
+			The humanist republic of Bimbolands is a transparent democracy. Verifying accounts with facebook makes our democratic process more robust, transparent and less open to abuse.</p>
+			<p><b><i class="fi-arrow-right"></i> What is the currency of Bimbolands?</b><br />
+			The Bimbo Dollar (B$). Currently it is pegged in value to the US$</p>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>
+
+	</div>
+		<div class="b-credits show-for-medium-up">
+			<div class="row">
+				<div class="small-12 large-8 small-centered columns">
+					<p class="b-index-stats text-center b-image-background"><b>Population</b>: <span class="b-update-population">2082</span> | <b>Prime Bimbo</b>: SweetasNuts | <b>Treasury</b>: <span class="b-update-treasury">206</span></p>
+					<p class="text-center b-image-background">Bimbolands.com is registered trademark of Blighty Ltd company no 2552313</p>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+
+
+		<a class="b-show-log">LOG</a>
+	<script> console.log('Processed in 0 seconds'); </script><!-- !NOTE CHECK CONSOLE FOR PHP PERFORMANCE -->
+	<script src="/js/main.js?v=0.0.3"></script>
+	<script src="/js/karol.js?v=0.0.2"></script>
+	<script>
+		
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-58474971-1', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+	
+</body>
+</html>
